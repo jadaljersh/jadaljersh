@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+navigation:
+-{file: "jad aljersh.pdf", title: "Resume", icon: home}
