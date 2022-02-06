@@ -1,9 +1,16 @@
 title: "Jad Aljersh"
 theme: jekyll-theme-cayman
 lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
 #layout
-show_frame: true                  #add gray frame to the site
+show_socials: true
+show_excerpts: false
+show_frame: ture #add gray frame to the site
+shows_sidebar: false
+
+#menu
 
 navigation:
 - {file: "jadaljersh.pdf", title: "Resume", icon: home}
