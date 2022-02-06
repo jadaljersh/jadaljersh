@@ -1,10 +1,14 @@
 title: "Jad Aljersh"
+author: "Jad Aljersh"
+description: "Made with <b style=\"color:#f45;\">&lt;3</b>"
+permalink: /:title/
 theme: jekyll-theme-cayman
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 #layout
+
 show_socials: true
 show_excerpts: false
 show_frame: ture #add gray frame to the site
