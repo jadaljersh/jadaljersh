@@ -1,4 +1,12 @@
+title: "Jad Aljersh"
 theme: jekyll-theme-cayman
+lang: "en"
+
+#layout
+show_frame: true                  #add gray frame to the site
 
 navigation:
--{file: "jad aljersh.pdf", title: "Resume", icon: home}
+- {file: "jad aljersh.pdf", title: "Resume", icon: home}
+
+external:
+- {title: Mail, icon: envelope, url: "mailto:jadalj9@gmail.com"}
